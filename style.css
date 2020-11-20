@@ -8,3 +8,9 @@
 h1 {
     text-align: center;
 }
+
+body {
+    margin: 0;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
